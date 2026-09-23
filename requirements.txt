@@ -1,1 +1,2 @@
-a
+PyMySQL==1.2.3
+Python-dotenv==1.0.0
